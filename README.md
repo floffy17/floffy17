@@ -27,6 +27,7 @@ Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea li
 
 ---
 
+<div align="center">
 ## DISCLAIMER
 
 <div align="center">
