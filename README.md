@@ -27,9 +27,8 @@ Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea li
 
 ---
 
-<div align="center">
-## DISCLAIMER
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22i+am+not+a+fan+of+nuclear+bombs%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22DISCLAIMER: i+am+not+a+fan+of+nuclear+bombs%22" />
 </div>
