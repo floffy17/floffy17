@@ -30,5 +30,5 @@ Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea li
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=%22DISCLAIMER:+I+am+not+a+fan+of+nuclear+bombs%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=%22DISCLAIMER:+I+am+not+a+fan+of+nuclear+bombs,+i+prefer+radiation+instead%22" alt="Typing SVG" />
 </div>
