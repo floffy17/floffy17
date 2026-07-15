@@ -1,15 +1,13 @@
-## 🔭 About Me
+## About Me
 
- Embedded System student  
- Electronic Design & Coding  
- #SoC | #Microcontroller | #Microprocessor  
- Rower and Rugby player  
- Born in Viterbo, Based in Turin  
+ Sustainable Nuclear Energy student  
+ Enjoying see life in Lecce, 
+ but unforntunately based in Turin for studying
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_bellee21?igsh=MTNvZzNtYXh4cDMz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belli-827807254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/simone.florido/)
 
 ---
 
@@ -44,5 +42,5 @@
 ## 💬 Dev Quot
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22If+it+works,+don't+touch+it.%22;-+Anonymous" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22i+am+not+a+fanèof+nuclear+bomb%22 />
 </div>
