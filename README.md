@@ -1,13 +1,12 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnYxaDY1dXNmb2Y2MzdtY2Vyb3ptMzVxZnB2MTEzdWQ2aml2eWkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zxzr2pp6qU64g/giphy.gif" width="300" />
-</div>
+
 
 ## About Me
 
-🌱 Sustainable Nuclear Energy student  
-🌊 Enjoying sea life in Lecce,  
-📍 but unfortunately based in Turin for studying
-
+Hii, i am a Sustainable Nuclear Energy student, really do like enjoying sea life in Lecce, but unfortunately based in Turin for studying. I focus my academic research on what truly interests me: neutron transport and the nuclear fuel cycle. When I'm not hitting the books, I spend my free time watching films and TV shows.
+ 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnYxaDY1dXNmb2Y2MzdtY2Vyb3ptMzVxZnB2MTEzdWQ2aml2eWkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zxzr2pp6qU64g/giphy.gif" width="300" />
+</div>
 ---
 
 ## 🌐 Socials
