@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hii, i am a Sustainable Nuclear Energy student, really do like enjoying sea life in Lecce, but unfortunately based in Turin for studying. I spend my time studying what I love, which means diving deep into neutron transport and the fuel cycle. When I'm not studying, I'm usually binge-watching a movie or a new TV series.
+Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea life in Lecce, but unfortunately based in Turin for studying. I spend my time studying what I love, which means diving deep into neutron transport and the fuel cycle. When I'm not studying, I'm usually binge-watching a movie or a new TV series.
  
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnYxaDY1dXNmb2Y2MzdtY2Vyb3ptMzVxZnB2MTEzdWQ2aml2eWkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zxzr2pp6qU64g/giphy.gif" width="300" />
