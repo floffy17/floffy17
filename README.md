@@ -7,7 +7,7 @@ Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea li
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnYxaDY1dXNmb2Y2MzdtY2Vyb3ptMzVxZnB2MTEzdWQ2aml2eWkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zxzr2pp6qU64g/giphy.gif" width="300" />
 </div>
----
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/simone.florido/)
