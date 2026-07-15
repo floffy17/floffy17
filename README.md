@@ -1,7 +1,7 @@
 ## About Me
 
  Sustainable Nuclear Energy student  
- Enjoying see life in Lecce, 
+ Enjoying sea life in Lecce, 
  but unforntunately based in Turin for studying
 
 ---
