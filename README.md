@@ -18,6 +18,7 @@ Hii, i am Simone Florido, a Sustainable Nuclear Energy student. I really do like
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![STAR-CCM+](https://img.shields.io/badge/STAR--CCM%2B-0099CC?style=for-the-badge&logo=siemens&logoColor=white)
+
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23C4281B.svg?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
