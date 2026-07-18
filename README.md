@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hii, i am a Sustainable Nuclear Energy student, i really do like enjoying sea life in Lecce, but unfortunately based in Turin for studying. Interested in neutronic transport and fuel cycle.
+Hii, i am Simone Florido, a Sustainable Nuclear Energy student. I really do like enjoying sea life in Lecce, but unfortunately based in Turin for studying. Interested in neutronic transport and fuel cycle.
  
 
 
